@@ -237,7 +237,6 @@ a:hover{
 
 
 
-
 /*contact page*/
 
 #contact{
@@ -248,20 +247,19 @@ a:hover{
   padding-top: 20px;
 }
 
-
 .links{
   padding-top: 50px;
 
 }
-
 
 .thiscake{
   text-align: right;
 }
 
 .contactitems{
-  padding-bottom: 100px;
+  padding-bottom: 70px;
 }
+
 .icontact{
   padding-top:10px;
   text-decoration: none;
@@ -272,10 +270,6 @@ a:hover{
   color:#F4A9A9;
 }
 
-.contactitem2{
-  padding-top: 40px;
-}
-
 
 @media screen and (min-width: 1000px){
   .links{
@@ -283,7 +277,7 @@ a:hover{
 
   }
   .contactitem2{
-    padding-top: 40px;
+    padding-top: 70px;
 
   }
 }
