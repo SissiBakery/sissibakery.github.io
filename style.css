@@ -257,7 +257,7 @@ a:hover{
 }
 
 .contactitems{
-  padding-top:40px;
+  padding-top:30px;
 }
 
 .icontact{
@@ -280,7 +280,7 @@ a:hover{
 
   }
   .contactitems{
-    padding-top: 70px;
+    padding-top: 30px;
   }
 }
 
@@ -319,4 +319,11 @@ a:hover{
 }
 .buttoncollection{
   color:black;
+}
+
+
+
+.copyright{
+  margin-bottom: 5px;
+  font-size:10px;
 }
