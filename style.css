@@ -147,6 +147,7 @@ a:hover{
 
 .aboutWord{
   padding-top: 3rem;
+  text-align: left;
 }
 
 @media screen and (min-width: 1000px){
