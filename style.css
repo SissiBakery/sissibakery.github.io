@@ -257,13 +257,16 @@ a:hover{
 }
 
 .contactitems{
-  padding-bottom: 70px;
+  padding-top:40px;
 }
 
 .icontact{
   padding-top:10px;
   text-decoration: none;
   color:white;
+  display: inline-block;
+  position:relative;
+  padding:20px;
 }
 
 .icontact:hover{
@@ -276,8 +279,9 @@ a:hover{
     padding-top: 200px;
 
   }
-  .contactitem2{
+  .contactitems{
     padding-top: 70px;
+
 
   }
 }
